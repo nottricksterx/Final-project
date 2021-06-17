@@ -1,0 +1,78 @@
+body{
+  background: #FFEEDB;
+  margin: 0;
+}
+
+.Heading{
+  font-family: 'Yeon Sung', cursive;
+  font-size: 6rem;
+  color: #0c056d;
+  margin: 0 auto 0 auto;
+  position: absolute;
+  top: 360px;
+  right: 300px;
+  bottom: 360px;
+  left: 260px;
+}
+
+.link1{
+  font-family: 'Yeon Sung', cursive;
+  font-size: 2.58rem;
+  color: #0c056d;
+  position: absolute;
+  margin: 0 auto 0 auto;
+  top: 250px;
+  right: 250px;
+  bottom: 360px;
+  left: 1200px;
+}
+
+.head1{
+  font-family: 'Yeon Sung', cursive;
+  font-size: 2.58rem;
+  color: #0c056d;
+  position: absolute;
+  margin: 0 auto 0 auto;
+  top: 390px;
+  right: 250px;
+  bottom: 360px;
+  left: 1200px;
+}
+
+.head2{
+  font-family: 'Yeon Sung', cursive;
+  font-size: 2.58rem;
+  color: #0c056d;
+  position: absolute;
+  margin: 0 auto 0 auto;
+  top: 520px;
+  right: 250px;
+  bottom: 360px;
+  left: 1200px;
+}
+
+.head3{
+  font-family: 'Yeon Sung', cursive;
+  font-size: 2.58rem;
+  color: #0c056d;
+  position: absolute;
+  margin: 0 auto 0 auto;
+  top: 650px;
+  right: 250px;
+  bottom: 360px;
+  left: 1200px;
+}
+
+.Pre{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Post{
+  text-align: center;
+}
+
+h1{
+  color: #3B14A7;
+}
